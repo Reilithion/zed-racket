@@ -1,7 +1,7 @@
 id = "racket"
 name = "Racket"
 description = "Racket support, with syntax highlighting and the Racket language server."
-version = "0.0.2"
+version = "0.0.3"
 schema_version = 1
 authors = [
     "Mikayla Maki <mikayla@zed.dev>",
